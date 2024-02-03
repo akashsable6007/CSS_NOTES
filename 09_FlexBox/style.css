@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+}
+
+div{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    border: 2px solid black;
+}
+
+#container{
+    width: 800px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-content: center;
+    
+    /* flex-direction: row-reverse;
+    flex-direction: column;
+    flex-direction: column-reverse; */
+
+}
+
+#box1{
+    background-color: aqua;
+    flex-grow: 1;
+}
+#box2{
+    background-color: pink;
+    flex-shrink: 2;
+}
+#box3{
+    background-color: purple;
+}
+#box4{
+    background-color: green;
+}
+#box5{
+    background-color: brown;
+}

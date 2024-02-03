@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+.navbar{
+    height: 60px;
+    background-color: black;
+    /* border: 5px solid white; */
+    text-align: center; 
+    
+    
+}
+
+
+button{
+    background-color: orangered;
+    
+}
+
+a{
+    margin-right: 200px; 
+    text-decoration: none;
+}
+
+.content{
+    height: 650px;
+
+}
+
+.contentBox{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    /* background-color: red; */
+}
+
+footer{
+    background-color: black;
+    text-align: center;
+}

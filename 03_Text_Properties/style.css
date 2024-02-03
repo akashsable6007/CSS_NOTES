@@ -1,0 +1,41 @@
+p{
+    text-align: right;
+}
+
+p{
+    text-align: center;
+    
+}
+
+.p1{
+    text-decoration: underline;
+    text-decoration: overline;
+    text-decoration: line-through;
+}
+
+h1{
+    font-weight: normal;
+}
+h2{
+    font-weight: lighter;
+}
+h3{
+    font-weight: 700;
+}
+
+#para{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-size: 20px;
+
+}
+
+#para2{
+    line-height: 50px;
+}
+
+#para3{
+    text-transform: capitalize;
+    text-transform: lowercase;
+    text-transform: uppercase;
+}

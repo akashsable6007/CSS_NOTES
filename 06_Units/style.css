@@ -1,0 +1,15 @@
+.parent{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    font-size: 10px;
+}
+
+.child{
+    height: 50%;
+    width: 50%;
+    background-color: yellow;
+    /* font-size: 2em; */
+    font-size: 2rem;
+}
+

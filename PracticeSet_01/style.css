@@ -1,0 +1,13 @@
+#box{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+}
+
+.heading{
+    color: red;
+}
+
+button{
+    background-color: green;
+}
